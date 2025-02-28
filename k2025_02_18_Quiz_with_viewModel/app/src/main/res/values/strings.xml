@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Boolean Questions App</string>
+    <string name="quiz_results">Quiz Results</string>
+    <string name="final_score">Final Score: %d /15</string>
+    <string name="skipped_questions">Skipped Questions: %d</string>
+    <string name="categories">Categories:</string>
+    <string name="arithmetic_correct">Arithmetic: %d correct</string>
+    <string name="space_correct">Space: %d correct</string>
+    <string name="quantum_correct">Quantum: %d correct</string>
+    <string name="submit_quiz">Submit to see results</string>
+    <string name="restart_quiz">Restart Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="skip_button">Skip</string>
+</resources>

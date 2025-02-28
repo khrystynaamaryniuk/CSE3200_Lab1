@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Додаток логічних питань</string>
+    <string name="quiz_results">Результати вікторини</string>
+    <string name="final_score">Остаточний рахунок: %d /15 </string>
+    <string name="skipped_questions">Пропущені питання: %d</string>
+    <string name="categories">Категорії:</string>
+    <string name="arithmetic_correct">Арифметика: %d правильних</string>
+    <string name="space_correct">Космос: %d правильних</string>
+    <string name="quantum_correct">Квантова фізика: %d правильних</string>
+    <string name="submit_quiz">Побачити результати</string>
+    <string name="restart_quiz">Перезапустити вікторину</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Неправда</string>
+    <string name="skip_button">Пропустити</string>
+</resources>
